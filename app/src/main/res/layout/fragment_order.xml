@@ -1,0 +1,180 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/order_title_view"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:text="订单"
+        android:textColor="#333333"
+        android:textSize="17sp" />
+
+    <View
+        android:id="@+id/tmp_line_1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/order_title_view"
+        android:background="#E8E8E8" />
+
+    <LinearLayout
+        android:id="@+id/tmp_title_view"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/tmp_line_1"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <RelativeLayout
+            android:id="@+id/order_ing_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+
+            <TextView
+                android:id="@+id/order_ing_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="待接单"
+                android:textColor="#FF4373F1"
+                android:textSize="13sp" />
+
+            <ImageView
+                android:id="@+id/order_ing_img"
+                android:layout_width="8dp"
+                android:layout_height="5dp"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/order_ing_text"
+                android:src="@drawable/triangle_blue" />
+
+            <View
+                android:id="@+id/img_order_tab_ing"
+                android:layout_width="54dp"
+                android:layout_height="2dp"
+                android:layout_alignParentBottom="true"
+                android:background="#4373F1"
+                android:visibility="visible" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/order_ok_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/order_ok_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="已完成"
+                android:textColor="#FF4373F1"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/order_ok_count_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/order_ok_text"
+                android:text="(10)"
+                android:textColor="#FF4373F1"
+                android:textSize="13sp" />
+
+            <View
+                android:id="@+id/img_order_tab_ok"
+                android:layout_width="54dp"
+                android:layout_height="2dp"
+                android:layout_alignParentBottom="true"
+                android:background="#4373F1"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/order_all_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/order_all_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="全部"
+                android:textColor="#FF4373F1"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/order_all_count_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/order_all_text"
+                android:text="(10)"
+                android:textColor="#FF4373F1"
+                android:textSize="13sp" />
+
+            <View
+                android:id="@+id/img_order_tab_all"
+                android:layout_width="54dp"
+                android:layout_height="2dp"
+                android:layout_alignParentBottom="true"
+                android:background="#4373F1"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tmp_title_view">
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/order_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@color/color_order_fragment"
+            android:dividerHeight="10dp"
+            android:scrollbarSize="10dp" />
+
+        <LinearLayout
+            android:id="@+id/order_no_data"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="invisible">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/img_no_record_data" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="没有订单"
+                android:textColor="#A7A7A7"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
+
+

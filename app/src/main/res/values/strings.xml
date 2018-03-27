@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">耿力技术</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">这是首页</string>
+    <string name="popup_system_photo">本地图片</string>
+    <string name="popup_shoot_photo">相机拍照</string>
+    <string name="tv_pop_choose_photo_cancel">取消</string>
+</resources>

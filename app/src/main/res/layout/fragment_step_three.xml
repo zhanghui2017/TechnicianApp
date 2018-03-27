@@ -1,0 +1,387 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="10dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_5dp_white_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="工作态度"
+            android:textColor="#ff4373f1"
+            android:textSize="12sp" />
+
+        <RadioGroup
+            android:id="@+id/radio_group_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_button_1_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="@null"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="满意"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:id="@+id/radio_button_1_n"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:background="@null"
+                android:button="@null"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="不满意"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+        </RadioGroup>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_5dp_white_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="素质及沟通能力"
+            android:textColor="#ff4373f1"
+            android:textSize="12sp" />
+
+        <RadioGroup
+            android:id="@+id/radio_group_2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_button_2_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="@null"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="满意"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:id="@+id/radio_button_2_n"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:background="@null"
+                android:button="@null"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="不满意"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+        </RadioGroup>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_5dp_white_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="技术水平及施工质量"
+            android:textColor="#ff4373f1"
+            android:textSize="12sp" />
+
+        <RadioGroup
+            android:id="@+id/radio_group_3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_button_3_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="@null"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="满意"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:id="@+id/radio_button_3_n"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:background="@null"
+                android:button="@null"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="不满意"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_5dp_white_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="学员的喷浆水平"
+            android:textColor="#ff4373f1"
+            android:textSize="12sp" />
+
+        <RadioGroup
+            android:id="@+id/radio_group_4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_button_4_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="@null"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="会"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:id="@+id/radio_button_4_n"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:background="@null"
+                android:button="@null"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="不会"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+        </RadioGroup>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_5dp_white_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="学员对易损零部件的识别"
+            android:textColor="#ff4373f1"
+            android:textSize="12sp" />
+
+        <RadioGroup
+            android:id="@+id/radio_group_5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_button_5_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="@null"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="会"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:id="@+id/radio_button_5_n"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:background="@null"
+                android:button="@null"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="不会"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+        </RadioGroup>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_5dp_white_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="学员对日常维护、故障检修知识的掌握"
+            android:textColor="#ff4373f1"
+            android:textSize="12sp" />
+
+        <RadioGroup
+            android:id="@+id/radio_group_6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_button_6_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="@null"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="会"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:id="@+id/radio_button_6_n"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:background="@null"
+                android:button="@null"
+                android:drawablePadding="6dp"
+                android:drawableRight="@drawable/radio"
+                android:text="不会"
+                android:textColor="@drawable/radio_text"
+                android:textSize="12sp" />
+
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_5dp_white_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="备注"
+            android:textColor="#ff4373f1"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@+id/step_three_beizhu_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="@android:color/white"
+            android:textColor="#ffa9bdd3"
+            android:textSize="11sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffeceff4" />
+
+    <TextView
+        android:id="@+id/step_three_commit_bt"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/shape_5dp_4373f1_bg"
+        android:gravity="center"
+        android:text="提交"
+        android:textColor="#ffffffff"
+        android:textSize="12sp" />
+</LinearLayout>

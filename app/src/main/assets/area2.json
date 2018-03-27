@@ -1,0 +1,2052 @@
+{
+  "HasError": false,
+  "ExceptionInfo": null,
+  "Data": [
+    {
+      "Id": 110000,
+      "Name": "北京",
+      "SubData": [
+        {
+          "Id": 110000,
+          "Name": "全部",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 120000,
+      "Name": "天津",
+      "SubData": [
+        {
+          "Id": 120000,
+          "Name": "全部",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 130000,
+      "Name": "河北",
+      "SubData": [
+        {
+          "Id": 130000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 130100,
+          "Name": "石家庄",
+          "SubData": null
+        },
+        {
+          "Id": 130200,
+          "Name": "唐山",
+          "SubData": null
+        },
+        {
+          "Id": 130300,
+          "Name": "秦皇岛",
+          "SubData": null
+        },
+        {
+          "Id": 130400,
+          "Name": "邯郸",
+          "SubData": null
+        },
+        {
+          "Id": 130500,
+          "Name": "邢台",
+          "SubData": null
+        },
+        {
+          "Id": 130600,
+          "Name": "保定",
+          "SubData": null
+        },
+        {
+          "Id": 130700,
+          "Name": "张家口",
+          "SubData": null
+        },
+        {
+          "Id": 130800,
+          "Name": "承德",
+          "SubData": null
+        },
+        {
+          "Id": 130900,
+          "Name": "沧州",
+          "SubData": null
+        },
+        {
+          "Id": 131000,
+          "Name": "廊坊",
+          "SubData": null
+        },
+        {
+          "Id": 131100,
+          "Name": "衡水",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 140000,
+      "Name": "山西",
+      "SubData": [
+        {
+          "Id": 140000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 140100,
+          "Name": "太原",
+          "SubData": null
+        },
+        {
+          "Id": 140200,
+          "Name": "大同",
+          "SubData": null
+        },
+        {
+          "Id": 140300,
+          "Name": "阳泉",
+          "SubData": null
+        },
+        {
+          "Id": 140400,
+          "Name": "长治",
+          "SubData": null
+        },
+        {
+          "Id": 140500,
+          "Name": "晋城",
+          "SubData": null
+        },
+        {
+          "Id": 140600,
+          "Name": "朔州",
+          "SubData": null
+        },
+        {
+          "Id": 140700,
+          "Name": "晋中",
+          "SubData": null
+        },
+        {
+          "Id": 140800,
+          "Name": "运城",
+          "SubData": null
+        },
+        {
+          "Id": 140900,
+          "Name": "忻州",
+          "SubData": null
+        },
+        {
+          "Id": 141000,
+          "Name": "临汾",
+          "SubData": null
+        },
+        {
+          "Id": 141100,
+          "Name": "吕梁",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 150000,
+      "Name": "内蒙古",
+      "SubData": [
+        {
+          "Id": 150000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 150100,
+          "Name": "呼和浩特",
+          "SubData": null
+        },
+        {
+          "Id": 150200,
+          "Name": "包头",
+          "SubData": null
+        },
+        {
+          "Id": 150300,
+          "Name": "乌海",
+          "SubData": null
+        },
+        {
+          "Id": 150400,
+          "Name": "赤峰",
+          "SubData": null
+        },
+        {
+          "Id": 150500,
+          "Name": "通辽",
+          "SubData": null
+        },
+        {
+          "Id": 150600,
+          "Name": "鄂尔多斯",
+          "SubData": null
+        },
+        {
+          "Id": 150700,
+          "Name": "呼伦贝尔",
+          "SubData": null
+        },
+        {
+          "Id": 150800,
+          "Name": "巴彦淖尔",
+          "SubData": null
+        },
+        {
+          "Id": 150900,
+          "Name": "乌兰察布",
+          "SubData": null
+        },
+        {
+          "Id": 152200,
+          "Name": "兴安盟",
+          "SubData": null
+        },
+        {
+          "Id": 152500,
+          "Name": "锡林郭勒盟",
+          "SubData": null
+        },
+        {
+          "Id": 152900,
+          "Name": "阿拉善盟",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 210000,
+      "Name": "辽宁",
+      "SubData": [
+        {
+          "Id": 210000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 210100,
+          "Name": "沈阳",
+          "SubData": null
+        },
+        {
+          "Id": 210200,
+          "Name": "大连",
+          "SubData": null
+        },
+        {
+          "Id": 210300,
+          "Name": "鞍山",
+          "SubData": null
+        },
+        {
+          "Id": 210400,
+          "Name": "抚顺",
+          "SubData": null
+        },
+        {
+          "Id": 210500,
+          "Name": "本溪",
+          "SubData": null
+        },
+        {
+          "Id": 210600,
+          "Name": "丹东",
+          "SubData": null
+        },
+        {
+          "Id": 210700,
+          "Name": "锦州",
+          "SubData": null
+        },
+        {
+          "Id": 210800,
+          "Name": "营口",
+          "SubData": null
+        },
+        {
+          "Id": 210900,
+          "Name": "阜新",
+          "SubData": null
+        },
+        {
+          "Id": 211000,
+          "Name": "辽阳",
+          "SubData": null
+        },
+        {
+          "Id": 211100,
+          "Name": "盘锦",
+          "SubData": null
+        },
+        {
+          "Id": 211200,
+          "Name": "铁岭",
+          "SubData": null
+        },
+        {
+          "Id": 211300,
+          "Name": "朝阳",
+          "SubData": null
+        },
+        {
+          "Id": 211400,
+          "Name": "葫芦岛",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 220000,
+      "Name": "吉林",
+      "SubData": [
+        {
+          "Id": 220000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 220100,
+          "Name": "长春",
+          "SubData": null
+        },
+        {
+          "Id": 220200,
+          "Name": "吉林",
+          "SubData": null
+        },
+        {
+          "Id": 220300,
+          "Name": "四平",
+          "SubData": null
+        },
+        {
+          "Id": 220400,
+          "Name": "辽源",
+          "SubData": null
+        },
+        {
+          "Id": 220500,
+          "Name": "通化",
+          "SubData": null
+        },
+        {
+          "Id": 220600,
+          "Name": "白山",
+          "SubData": null
+        },
+        {
+          "Id": 220700,
+          "Name": "松原",
+          "SubData": null
+        },
+        {
+          "Id": 220800,
+          "Name": "白城",
+          "SubData": null
+        },
+        {
+          "Id": 222400,
+          "Name": "延边朝鲜族",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 230000,
+      "Name": "黑龙江",
+      "SubData": [
+        {
+          "Id": 230000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 230100,
+          "Name": "哈尔滨",
+          "SubData": null
+        },
+        {
+          "Id": 230200,
+          "Name": "齐齐哈尔",
+          "SubData": null
+        },
+        {
+          "Id": 230300,
+          "Name": "鸡西",
+          "SubData": null
+        },
+        {
+          "Id": 230400,
+          "Name": "鹤岗",
+          "SubData": null
+        },
+        {
+          "Id": 230500,
+          "Name": "双鸭山",
+          "SubData": null
+        },
+        {
+          "Id": 230600,
+          "Name": "大庆",
+          "SubData": null
+        },
+        {
+          "Id": 230700,
+          "Name": "伊春",
+          "SubData": null
+        },
+        {
+          "Id": 230800,
+          "Name": "佳木斯",
+          "SubData": null
+        },
+        {
+          "Id": 230900,
+          "Name": "七台河",
+          "SubData": null
+        },
+        {
+          "Id": 231000,
+          "Name": "牡丹江",
+          "SubData": null
+        },
+        {
+          "Id": 231100,
+          "Name": "黑河",
+          "SubData": null
+        },
+        {
+          "Id": 231200,
+          "Name": "绥化",
+          "SubData": null
+        },
+        {
+          "Id": 232700,
+          "Name": "大兴安岭",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 310000,
+      "Name": "上海",
+      "SubData": [
+        {
+          "Id": 310000,
+          "Name": "全部",
+          "SubData": null
+        }
+
+      ]
+    },
+    {
+      "Id": 320000,
+      "Name": "江苏",
+      "SubData": [
+        {
+          "Id": 320000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 320100,
+          "Name": "南京",
+          "SubData": null
+        },
+        {
+          "Id": 320200,
+          "Name": "无锡",
+          "SubData": null
+        },
+        {
+          "Id": 320300,
+          "Name": "徐州",
+          "SubData": null
+        },
+        {
+          "Id": 320400,
+          "Name": "常州",
+          "SubData": null
+        },
+        {
+          "Id": 320500,
+          "Name": "苏州",
+          "SubData": null
+        },
+        {
+          "Id": 320600,
+          "Name": "南通",
+          "SubData": null
+        },
+        {
+          "Id": 320700,
+          "Name": "连云港",
+          "SubData": null
+        },
+        {
+          "Id": 320800,
+          "Name": "淮安",
+          "SubData": null
+        },
+        {
+          "Id": 320900,
+          "Name": "盐城",
+          "SubData": null
+        },
+        {
+          "Id": 321000,
+          "Name": "扬州",
+          "SubData": null
+        },
+        {
+          "Id": 321100,
+          "Name": "镇江",
+          "SubData": null
+        },
+        {
+          "Id": 321200,
+          "Name": "泰州",
+          "SubData": null
+        },
+        {
+          "Id": 321300,
+          "Name": "宿迁",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 330000,
+      "Name": "浙江",
+      "SubData": [
+        {
+          "Id": 330000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 330100,
+          "Name": "杭州",
+          "SubData": null
+        },
+        {
+          "Id": 330200,
+          "Name": "宁波",
+          "SubData": null
+        },
+        {
+          "Id": 330300,
+          "Name": "温州",
+          "SubData": null
+        },
+        {
+          "Id": 330400,
+          "Name": "嘉兴",
+          "SubData": null
+        },
+        {
+          "Id": 330500,
+          "Name": "湖州",
+          "SubData": null
+        },
+        {
+          "Id": 330600,
+          "Name": "绍兴",
+          "SubData": null
+        },
+        {
+          "Id": 330700,
+          "Name": "金华",
+          "SubData": null
+        },
+        {
+          "Id": 330800,
+          "Name": "衢州",
+          "SubData": null
+        },
+        {
+          "Id": 330900,
+          "Name": "舟山",
+          "SubData": null
+        },
+        {
+          "Id": 331000,
+          "Name": "台州",
+          "SubData": null
+        },
+        {
+          "Id": 331100,
+          "Name": "丽水",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 340000,
+      "Name": "安徽",
+      "SubData": [
+        {
+          "Id": 340000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 340100,
+          "Name": "合肥",
+          "SubData": null
+        },
+        {
+          "Id": 340200,
+          "Name": "芜湖",
+          "SubData": null
+        },
+        {
+          "Id": 340300,
+          "Name": "蚌埠",
+          "SubData": null
+        },
+        {
+          "Id": 340400,
+          "Name": "淮南",
+          "SubData": null
+        },
+        {
+          "Id": 340500,
+          "Name": "马鞍山",
+          "SubData": null
+        },
+        {
+          "Id": 340600,
+          "Name": "淮北",
+          "SubData": null
+        },
+        {
+          "Id": 340700,
+          "Name": "铜陵",
+          "SubData": null
+        },
+        {
+          "Id": 340800,
+          "Name": "安庆",
+          "SubData": null
+        },
+        {
+          "Id": 341000,
+          "Name": "黄山",
+          "SubData": null
+        },
+        {
+          "Id": 341100,
+          "Name": "滁州",
+          "SubData": null
+        },
+        {
+          "Id": 341200,
+          "Name": "阜阳",
+          "SubData": null
+        },
+        {
+          "Id": 341300,
+          "Name": "宿州",
+          "SubData": null
+        },
+        {
+          "Id": 341400,
+          "Name": "巢湖",
+          "SubData": null
+        },
+        {
+          "Id": 341500,
+          "Name": "六安",
+          "SubData": null
+        },
+        {
+          "Id": 341600,
+          "Name": "亳州",
+          "SubData": null
+        },
+        {
+          "Id": 341700,
+          "Name": "池州",
+          "SubData": null
+        },
+        {
+          "Id": 341800,
+          "Name": "宣城",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 350000,
+      "Name": "福建",
+      "SubData": [
+        {
+          "Id": 350000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 350100,
+          "Name": "福州",
+          "SubData": null
+        },
+        {
+          "Id": 350200,
+          "Name": "厦门",
+          "SubData": null
+        },
+        {
+          "Id": 350300,
+          "Name": "莆田",
+          "SubData": null
+        },
+        {
+          "Id": 350400,
+          "Name": "三明",
+          "SubData": null
+        },
+        {
+          "Id": 350500,
+          "Name": "泉州",
+          "SubData": null
+        },
+        {
+          "Id": 350600,
+          "Name": "漳州",
+          "SubData": null
+        },
+        {
+          "Id": 350700,
+          "Name": "南平",
+          "SubData": null
+        },
+        {
+          "Id": 350800,
+          "Name": "龙岩",
+          "SubData": null
+        },
+        {
+          "Id": 350900,
+          "Name": "宁德",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 360000,
+      "Name": "江西",
+      "SubData": [
+        {
+          "Id": 360000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 360100,
+          "Name": "南昌",
+          "SubData": null
+        },
+        {
+          "Id": 360200,
+          "Name": "景德镇",
+          "SubData": null
+        },
+        {
+          "Id": 360300,
+          "Name": "萍乡",
+          "SubData": null
+        },
+        {
+          "Id": 360400,
+          "Name": "九江",
+          "SubData": null
+        },
+        {
+          "Id": 360500,
+          "Name": "新余",
+          "SubData": null
+        },
+        {
+          "Id": 360600,
+          "Name": "鹰潭",
+          "SubData": null
+        },
+        {
+          "Id": 360700,
+          "Name": "赣州",
+          "SubData": null
+        },
+        {
+          "Id": 360800,
+          "Name": "吉安",
+          "SubData": null
+        },
+        {
+          "Id": 360900,
+          "Name": "宜春",
+          "SubData": null
+        },
+        {
+          "Id": 361000,
+          "Name": "抚州",
+          "SubData": null
+        },
+        {
+          "Id": 361100,
+          "Name": "上饶",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 370000,
+      "Name": "山东",
+      "SubData": [
+        {
+          "Id": 370000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 370100,
+          "Name": "济南",
+          "SubData": null
+        },
+        {
+          "Id": 370200,
+          "Name": "青岛",
+          "SubData": null
+        },
+        {
+          "Id": 370300,
+          "Name": "淄博",
+          "SubData": null
+        },
+        {
+          "Id": 370400,
+          "Name": "枣庄",
+          "SubData": null
+        },
+        {
+          "Id": 370500,
+          "Name": "东营",
+          "SubData": null
+        },
+        {
+          "Id": 370600,
+          "Name": "烟台",
+          "SubData": null
+        },
+        {
+          "Id": 370700,
+          "Name": "潍坊",
+          "SubData": null
+        },
+        {
+          "Id": 370800,
+          "Name": "济宁",
+          "SubData": null
+        },
+        {
+          "Id": 370900,
+          "Name": "泰安",
+          "SubData": null
+        },
+        {
+          "Id": 371000,
+          "Name": "威海",
+          "SubData": null
+        },
+        {
+          "Id": 371100,
+          "Name": "日照",
+          "SubData": null
+        },
+        {
+          "Id": 371200,
+          "Name": "莱芜",
+          "SubData": null
+        },
+        {
+          "Id": 371300,
+          "Name": "临沂",
+          "SubData": null
+        },
+        {
+          "Id": 371400,
+          "Name": "德州",
+          "SubData": null
+        },
+        {
+          "Id": 371500,
+          "Name": "聊城",
+          "SubData": null
+        },
+        {
+          "Id": 371600,
+          "Name": "滨州",
+          "SubData": null
+        },
+        {
+          "Id": 371700,
+          "Name": "菏泽",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 410000,
+      "Name": "河南",
+      "SubData": [
+        {
+          "Id": 410000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 410100,
+          "Name": "郑州",
+          "SubData": null
+        },
+        {
+          "Id": 410200,
+          "Name": "开封",
+          "SubData": null
+        },
+        {
+          "Id": 410300,
+          "Name": "洛阳",
+          "SubData": null
+        },
+        {
+          "Id": 410400,
+          "Name": "平顶山",
+          "SubData": null
+        },
+        {
+          "Id": 410500,
+          "Name": "安阳",
+          "SubData": null
+        },
+        {
+          "Id": 410600,
+          "Name": "鹤壁",
+          "SubData": null
+        },
+        {
+          "Id": 410700,
+          "Name": "新乡",
+          "SubData": null
+        },
+        {
+          "Id": 410800,
+          "Name": "焦作",
+          "SubData": null
+        },
+        {
+          "Id": 410900,
+          "Name": "濮阳",
+          "SubData": null
+        },
+        {
+          "Id": 411000,
+          "Name": "许昌",
+          "SubData": null
+        },
+        {
+          "Id": 411100,
+          "Name": "漯河",
+          "SubData": null
+        },
+        {
+          "Id": 411200,
+          "Name": "三门峡",
+          "SubData": null
+        },
+        {
+          "Id": 411300,
+          "Name": "南阳",
+          "SubData": null
+        },
+        {
+          "Id": 411400,
+          "Name": "商丘",
+          "SubData": null
+        },
+        {
+          "Id": 411500,
+          "Name": "信阳",
+          "SubData": null
+        },
+        {
+          "Id": 411600,
+          "Name": "周口",
+          "SubData": null
+        },
+        {
+          "Id": 411700,
+          "Name": "驻马店",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 420000,
+      "Name": "湖北",
+      "SubData": [
+        {
+          "Id": 420000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 420100,
+          "Name": "武汉",
+          "SubData": null
+        },
+        {
+          "Id": 420200,
+          "Name": "黄石",
+          "SubData": null
+        },
+        {
+          "Id": 420300,
+          "Name": "十堰",
+          "SubData": null
+        },
+        {
+          "Id": 420500,
+          "Name": "宜昌",
+          "SubData": null
+        },
+        {
+          "Id": 420600,
+          "Name": "襄樊",
+          "SubData": null
+        },
+        {
+          "Id": 420700,
+          "Name": "鄂州",
+          "SubData": null
+        },
+        {
+          "Id": 420800,
+          "Name": "荆门",
+          "SubData": null
+        },
+        {
+          "Id": 420900,
+          "Name": "孝感",
+          "SubData": null
+        },
+        {
+          "Id": 421000,
+          "Name": "荆州",
+          "SubData": null
+        },
+        {
+          "Id": 421100,
+          "Name": "黄冈",
+          "SubData": null
+        },
+        {
+          "Id": 421200,
+          "Name": "咸宁",
+          "SubData": null
+        },
+        {
+          "Id": 421300,
+          "Name": "随州",
+          "SubData": null
+        },
+        {
+          "Id": 422800,
+          "Name": "恩施土家族苗族",
+          "SubData": null
+        },
+        {
+          "Id": 429000,
+          "Name": "直辖行政单位",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 430000,
+      "Name": "湖南",
+      "SubData": [
+        {
+          "Id": 430000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 430100,
+          "Name": "长沙",
+          "SubData": null
+        },
+        {
+          "Id": 430200,
+          "Name": "株洲",
+          "SubData": null
+        },
+        {
+          "Id": 430300,
+          "Name": "湘潭",
+          "SubData": null
+        },
+        {
+          "Id": 430400,
+          "Name": "衡阳",
+          "SubData": null
+        },
+        {
+          "Id": 430500,
+          "Name": "邵阳",
+          "SubData": null
+        },
+        {
+          "Id": 430600,
+          "Name": "岳阳",
+          "SubData": null
+        },
+        {
+          "Id": 430700,
+          "Name": "常德",
+          "SubData": null
+        },
+        {
+          "Id": 430800,
+          "Name": "张家界",
+          "SubData": null
+        },
+        {
+          "Id": 430900,
+          "Name": "益阳",
+          "SubData": null
+        },
+        {
+          "Id": 431000,
+          "Name": "郴州",
+          "SubData": null
+        },
+        {
+          "Id": 431100,
+          "Name": "永州",
+          "SubData": null
+        },
+        {
+          "Id": 431200,
+          "Name": "怀化",
+          "SubData": null
+        },
+        {
+          "Id": 431300,
+          "Name": "娄底",
+          "SubData": null
+        },
+        {
+          "Id": 433100,
+          "Name": "湘西土家族苗族",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 440000,
+      "Name": "广东",
+      "SubData": [
+        {
+          "Id": 440000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 440100,
+          "Name": "广州",
+          "SubData": null
+        },
+        {
+          "Id": 440200,
+          "Name": "韶关",
+          "SubData": null
+        },
+        {
+          "Id": 440300,
+          "Name": "深圳",
+          "SubData": null
+        },
+        {
+          "Id": 440400,
+          "Name": "珠海",
+          "SubData": null
+        },
+        {
+          "Id": 440500,
+          "Name": "汕头",
+          "SubData": null
+        },
+        {
+          "Id": 440600,
+          "Name": "佛山",
+          "SubData": null
+        },
+        {
+          "Id": 440700,
+          "Name": "江门",
+          "SubData": null
+        },
+        {
+          "Id": 440800,
+          "Name": "湛江",
+          "SubData": null
+        },
+        {
+          "Id": 440900,
+          "Name": "茂名",
+          "SubData": null
+        },
+        {
+          "Id": 441200,
+          "Name": "肇庆",
+          "SubData": null
+        },
+        {
+          "Id": 441300,
+          "Name": "惠州",
+          "SubData": null
+        },
+        {
+          "Id": 441400,
+          "Name": "梅州",
+          "SubData": null
+        },
+        {
+          "Id": 441500,
+          "Name": "汕尾",
+          "SubData": null
+        },
+        {
+          "Id": 441600,
+          "Name": "河源",
+          "SubData": null
+        },
+        {
+          "Id": 441700,
+          "Name": "阳江",
+          "SubData": null
+        },
+        {
+          "Id": 441800,
+          "Name": "清远",
+          "SubData": null
+        },
+        {
+          "Id": 445100,
+          "Name": "潮州",
+          "SubData": null
+        },
+        {
+          "Id": 445200,
+          "Name": "揭阳",
+          "SubData": null
+        },
+        {
+          "Id": 445300,
+          "Name": "云浮",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 450000,
+      "Name": "广西",
+      "SubData": [
+        {
+          "Id": 450000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 450100,
+          "Name": "南宁",
+          "SubData": null
+        },
+        {
+          "Id": 450200,
+          "Name": "柳州",
+          "SubData": null
+        },
+        {
+          "Id": 450300,
+          "Name": "桂林",
+          "SubData": null
+        },
+        {
+          "Id": 450400,
+          "Name": "梧州",
+          "SubData": null
+        },
+        {
+          "Id": 450500,
+          "Name": "北海",
+          "SubData": null
+        },
+        {
+          "Id": 450600,
+          "Name": "防城港",
+          "SubData": null
+        },
+        {
+          "Id": 450700,
+          "Name": "钦州",
+          "SubData": null
+        },
+        {
+          "Id": 450800,
+          "Name": "贵港",
+          "SubData": null
+        },
+        {
+          "Id": 450900,
+          "Name": "玉林",
+          "SubData": null
+        },
+        {
+          "Id": 451000,
+          "Name": "百色",
+          "SubData": null
+        },
+        {
+          "Id": 451100,
+          "Name": "贺州",
+          "SubData": null
+        },
+        {
+          "Id": 451200,
+          "Name": "河池",
+          "SubData": null
+        },
+        {
+          "Id": 451300,
+          "Name": "来宾",
+          "SubData": null
+        },
+        {
+          "Id": 451400,
+          "Name": "崇左",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 460000,
+      "Name": "海南",
+      "SubData": [
+        {
+          "Id": 460000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 460100,
+          "Name": "海口",
+          "SubData": null
+        },
+        {
+          "Id": 460200,
+          "Name": "三亚",
+          "SubData": null
+        },
+        {
+          "Id": 469000,
+          "Name": "直辖县级行政单位",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 500000,
+      "Name": "重庆",
+      "SubData": [
+        {
+          "Id": 500000,
+          "Name": "全部",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 510000,
+      "Name": "四川",
+      "SubData": [
+        {
+          "Id": 510000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 510100,
+          "Name": "成都",
+          "SubData": null
+        },
+        {
+          "Id": 510300,
+          "Name": "自贡",
+          "SubData": null
+        },
+        {
+          "Id": 510400,
+          "Name": "攀枝花",
+          "SubData": null
+        },
+        {
+          "Id": 510500,
+          "Name": "泸州",
+          "SubData": null
+        },
+        {
+          "Id": 510600,
+          "Name": "德阳",
+          "SubData": null
+        },
+        {
+          "Id": 510700,
+          "Name": "绵阳",
+          "SubData": null
+        },
+        {
+          "Id": 510800,
+          "Name": "广元",
+          "SubData": null
+        },
+        {
+          "Id": 510900,
+          "Name": "遂宁",
+          "SubData": null
+        },
+        {
+          "Id": 511000,
+          "Name": "内江",
+          "SubData": null
+        },
+        {
+          "Id": 511100,
+          "Name": "乐山",
+          "SubData": null
+        },
+        {
+          "Id": 511300,
+          "Name": "南充",
+          "SubData": null
+        },
+        {
+          "Id": 511400,
+          "Name": "眉山",
+          "SubData": null
+        },
+        {
+          "Id": 511500,
+          "Name": "宜宾",
+          "SubData": null
+        },
+        {
+          "Id": 511600,
+          "Name": "广安",
+          "SubData": null
+        },
+        {
+          "Id": 511700,
+          "Name": "达州",
+          "SubData": null
+        },
+        {
+          "Id": 511800,
+          "Name": "雅安",
+          "SubData": null
+        },
+        {
+          "Id": 511900,
+          "Name": "巴中",
+          "SubData": null
+        },
+        {
+          "Id": 512000,
+          "Name": "资阳",
+          "SubData": null
+        },
+        {
+          "Id": 513200,
+          "Name": "阿坝藏族羌族",
+          "SubData": null
+        },
+        {
+          "Id": 513300,
+          "Name": "甘孜藏族",
+          "SubData": null
+        },
+        {
+          "Id": 513400,
+          "Name": "凉山彝族",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 520000,
+      "Name": "贵州",
+      "SubData": [
+        {
+          "Id": 520000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 520100,
+          "Name": "贵阳",
+          "SubData": null
+        },
+        {
+          "Id": 520200,
+          "Name": "六盘水",
+          "SubData": null
+        },
+        {
+          "Id": 520300,
+          "Name": "遵义",
+          "SubData": null
+        },
+        {
+          "Id": 520400,
+          "Name": "安顺",
+          "SubData": null
+        },
+        {
+          "Id": 522200,
+          "Name": "铜仁",
+          "SubData": null
+        },
+        {
+          "Id": 522300,
+          "Name": "黔西南布依族苗族",
+          "SubData": null
+        },
+        {
+          "Id": 522400,
+          "Name": "毕节",
+          "SubData": null
+        },
+        {
+          "Id": 522600,
+          "Name": "黔东南苗族侗族",
+          "SubData": null
+        },
+        {
+          "Id": 522700,
+          "Name": "黔南布依族苗族",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 530000,
+      "Name": "云南",
+      "SubData": [
+        {
+          "Id": 230000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 530100,
+          "Name": "昆明",
+          "SubData": null
+        },
+        {
+          "Id": 530300,
+          "Name": "曲靖",
+          "SubData": null
+        },
+        {
+          "Id": 530400,
+          "Name": "玉溪",
+          "SubData": null
+        },
+        {
+          "Id": 530500,
+          "Name": "保山",
+          "SubData": null
+        },
+        {
+          "Id": 530600,
+          "Name": "昭通",
+          "SubData": null
+        },
+        {
+          "Id": 530700,
+          "Name": "丽江",
+          "SubData": null
+        },
+        {
+          "Id": 530800,
+          "Name": "思茅",
+          "SubData": null
+        },
+        {
+          "Id": 530900,
+          "Name": "临沧",
+          "SubData": null
+        },
+        {
+          "Id": 532300,
+          "Name": "楚雄彝族",
+          "SubData": null
+        },
+        {
+          "Id": 532500,
+          "Name": "红河哈尼族彝族",
+          "SubData": null
+        },
+        {
+          "Id": 532600,
+          "Name": "文山壮族苗族",
+          "SubData": null
+        },
+        {
+          "Id": 532800,
+          "Name": "西双版纳傣族",
+          "SubData": null
+        },
+        {
+          "Id": 532900,
+          "Name": "大理白族",
+          "SubData": null
+        },
+        {
+          "Id": 533100,
+          "Name": "德宏傣族景颇族",
+          "SubData": null
+        },
+        {
+          "Id": 533300,
+          "Name": "怒江傈僳族",
+          "SubData": null
+        },
+        {
+          "Id": 533400,
+          "Name": "迪庆藏族",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 540000,
+      "Name": "西藏",
+      "SubData": [
+        {
+          "Id": 540000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 540100,
+          "Name": "拉萨",
+          "SubData": null
+        },
+        {
+          "Id": 542100,
+          "Name": "昌都",
+          "SubData": null
+        },
+        {
+          "Id": 542200,
+          "Name": "山南",
+          "SubData": null
+        },
+        {
+          "Id": 542300,
+          "Name": "日喀则",
+          "SubData": null
+        },
+        {
+          "Id": 542400,
+          "Name": "那曲",
+          "SubData": null
+        },
+        {
+          "Id": 542500,
+          "Name": "阿里",
+          "SubData": null
+        },
+        {
+          "Id": 542600,
+          "Name": "林芝",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 610000,
+      "Name": "陕西",
+      "SubData": [
+        {
+          "Id": 600000,
+          "Name": "乌鲁木齐",
+          "SubData": null
+        },
+        {
+          "Id": 610100,
+          "Name": "西安",
+          "SubData": null
+        },
+        {
+          "Id": 610200,
+          "Name": "铜川",
+          "SubData": null
+        },
+        {
+          "Id": 610300,
+          "Name": "宝鸡",
+          "SubData": null
+        },
+        {
+          "Id": 610400,
+          "Name": "咸阳",
+          "SubData": null
+        },
+        {
+          "Id": 610500,
+          "Name": "渭南",
+          "SubData": null
+        },
+        {
+          "Id": 610600,
+          "Name": "延安",
+          "SubData": null
+        },
+        {
+          "Id": 610700,
+          "Name": "汉中",
+          "SubData": null
+        },
+        {
+          "Id": 610800,
+          "Name": "榆林",
+          "SubData": null
+        },
+        {
+          "Id": 610900,
+          "Name": "安康",
+          "SubData": null
+        },
+        {
+          "Id": 611000,
+          "Name": "商洛",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 620000,
+      "Name": "甘肃",
+      "SubData": [
+        {
+          "Id": 600000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 620100,
+          "Name": "兰州",
+          "SubData": null
+        },
+        {
+          "Id": 620200,
+          "Name": "嘉峪关",
+          "SubData": null
+        },
+        {
+          "Id": 620300,
+          "Name": "金昌",
+          "SubData": null
+        },
+        {
+          "Id": 620400,
+          "Name": "白银",
+          "SubData": null
+        },
+        {
+          "Id": 620500,
+          "Name": "天水",
+          "SubData": null
+        },
+        {
+          "Id": 620600,
+          "Name": "武威",
+          "SubData": null
+        },
+        {
+          "Id": 620700,
+          "Name": "张掖",
+          "SubData": null
+        },
+        {
+          "Id": 620800,
+          "Name": "平凉",
+          "SubData": null
+        },
+        {
+          "Id": 620900,
+          "Name": "酒泉",
+          "SubData": null
+        },
+        {
+          "Id": 621000,
+          "Name": "庆阳",
+          "SubData": null
+        },
+        {
+          "Id": 621100,
+          "Name": "定西",
+          "SubData": null
+        },
+        {
+          "Id": 621200,
+          "Name": "陇南",
+          "SubData": null
+        },
+        {
+          "Id": 622900,
+          "Name": "临夏回族",
+          "SubData": null
+        },
+        {
+          "Id": 623000,
+          "Name": "甘南藏族",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 630000,
+      "Name": "青海",
+      "SubData": [
+        {
+          "Id": 630000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 630100,
+          "Name": "西宁",
+          "SubData": null
+        },
+        {
+          "Id": 632100,
+          "Name": "海东",
+          "SubData": null
+        },
+        {
+          "Id": 632200,
+          "Name": "海北藏族",
+          "SubData": null
+        },
+        {
+          "Id": 632300,
+          "Name": "黄南藏族",
+          "SubData": null
+        },
+        {
+          "Id": 632500,
+          "Name": "海南藏族",
+          "SubData": null
+        },
+        {
+          "Id": 632600,
+          "Name": "果洛藏族",
+          "SubData": null
+        },
+        {
+          "Id": 632700,
+          "Name": "玉树藏族",
+          "SubData": null
+        },
+        {
+          "Id": 632800,
+          "Name": "海西蒙古族藏族",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 640000,
+      "Name": "宁夏",
+      "SubData": [
+        {
+          "Id": 640000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 640100,
+          "Name": "银川",
+          "SubData": null
+        },
+        {
+          "Id": 640200,
+          "Name": "石嘴山",
+          "SubData": null
+        },
+        {
+          "Id": 640300,
+          "Name": "吴忠",
+          "SubData": null
+        },
+        {
+          "Id": 640400,
+          "Name": "固原",
+          "SubData": null
+        },
+        {
+          "Id": 640500,
+          "Name": "中卫",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 650000,
+      "Name": "新疆",
+      "SubData": [
+        {
+          "Id": 650000,
+          "Name": "全部",
+          "SubData": null
+        },
+        {
+          "Id": 650100,
+          "Name": "乌鲁木齐",
+          "SubData": null
+        },
+        {
+          "Id": 650200,
+          "Name": "克拉玛依",
+          "SubData": null
+        },
+        {
+          "Id": 652100,
+          "Name": "吐鲁番",
+          "SubData": null
+        },
+        {
+          "Id": 652200,
+          "Name": "哈密",
+          "SubData": null
+        },
+        {
+          "Id": 652300,
+          "Name": "昌吉回族",
+          "SubData": null
+        },
+        {
+          "Id": 652700,
+          "Name": "博尔塔拉蒙古",
+          "SubData": null
+        },
+        {
+          "Id": 652800,
+          "Name": "巴音郭楞蒙古",
+          "SubData": null
+        },
+        {
+          "Id": 652900,
+          "Name": "阿克苏",
+          "SubData": null
+        },
+        {
+          "Id": 653000,
+          "Name": "克孜勒苏柯尔克孜",
+          "SubData": null
+        },
+        {
+          "Id": 653100,
+          "Name": "喀什",
+          "SubData": null
+        },
+        {
+          "Id": 653200,
+          "Name": "和田",
+          "SubData": null
+        },
+        {
+          "Id": 654000,
+          "Name": "伊犁哈萨克",
+          "SubData": null
+        },
+        {
+          "Id": 654200,
+          "Name": "塔城",
+          "SubData": null
+        },
+        {
+          "Id": 654300,
+          "Name": "阿勒泰",
+          "SubData": null
+        },
+        {
+          "Id": 659000,
+          "Name": "直辖行政单位",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 660000,
+      "Name": "香港",
+      "SubData": [
+        {
+          "Id": 660000,
+          "Name": "全部",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 670000,
+      "Name": "澳门",
+      "SubData": [
+        {
+          "Id": 670000,
+          "Name": "全部",
+          "SubData": null
+        }
+      ]
+    },
+    {
+      "Id": 690000,
+      "Name": "台湾",
+      "SubData": [
+        {
+          "Id": 690000,
+          "Name": "全部",
+          "SubData": null
+        }
+      ]
+    }
+  ],
+  "Message": null
+}

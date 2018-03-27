@@ -1,0 +1,249 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:id="@+id/tmp_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_mission_1" />
+
+        <TextView
+            android:id="@+id/tmp_order_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="9dp"
+            android:layout_toRightOf="@id/tmp_img"
+            android:text="单号："
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="9dp"
+            android:layout_toRightOf="@id/tmp_order_number"
+            android:text="APP001"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dip"
+            android:text="2018/01/10"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_mission_2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:text="地址："
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="洛阳市西工区沙场西路"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_mission_3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:text="单位："
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_company"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="洛阳市如凡电子商务"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_mission_4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:text="维修设备："
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_machine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GLZ1全液压掘进钻车"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_mission_5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:text="设备故障："
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_trouble"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="false"
+            android:text="液压车全车动作迟缓无力，左右行走无动作，不会向前，不会向后"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_mission_6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:text="联系人："
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="胡竹青"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_mission_7" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:text="联系电话："
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_mission_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="18567613015"
+            android:textColor="@color/color_main_fun_text"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

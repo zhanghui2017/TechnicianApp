@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_main_fun_text">#333333</color>
+    <color name="color_main_menu_text">#515151</color>
+    <color name="color_main_menu_text_sel">#4373fe</color>
+    <color name="color_main_backgrand">#e8e8e8</color>
+    <color name="half_transparent">#50000000</color>
+    <color name="color_order_fragment">#f6f6f6</color>
+    <color name="color_order_text_242424">#242424</color>
+    <color name="color_order_bg_4373f1">#4373f1</color>
+    <color name="tmp_color_1">#D3D3D3</color>
+    <color name="bottom_background_color">#f7f7f7</color>
+    <color name="line_grey_betweenNews">#dddddd</color>
+    <color name="line_slight_grey_betweenTitleToNews">#e2e2e2</color>
+    <color name="grey_addfens_line">#F3F3F3</color>
+</resources>
